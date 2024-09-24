@@ -15,7 +15,7 @@
 	"link" : "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1727179284-0-0-97a3edf3af0587738142ba1d32b74892"},
 
 	    {"server" : "FullHD",
-	"link" : "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1727179344-0-0-af34a8a582be2b49a4efa596b9854cc2"},
+	"link" : "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727196177-0-0-b30562bb71d1bd06e318398ad5ffe2a3"},
 
 	    {"server" : "English",
 	"link" : "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1727179344-0-0-63dd43a89cf77935a1fdd783a593fbd0"}
