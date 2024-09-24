@@ -6,33 +6,59 @@
     "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
     "leauge" :"EFL Cup Round 3",
     "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
-    "link" : "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=66a7c483fbc67b66c34c7ef8cfe921c5&txTime=66f2805c,https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=01fde77485271dbb8863d91d4a5c7ce7&txTime=66f2805c",
-    "linktype" : "HD,SD",
-    "live" :0
-},
-
-{
-    "matchName" : "Chelsea Vs Barrow",
-    "data" : "Wed, September 25, 1:15 AM",
-    "homeImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8455_small.png&w=48&q=75",
-    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
-    "leauge" :"EFL Cup Round 3",
-    "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
-    "link" : "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=66a7c483fbc67b66c34c7ef8cfe921c5&txTime=66f2805c,https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=01fde77485271dbb8863d91d4a5c7ce7&txTime=66f2805c",
+    "link" : [
+        
+	{"server" : "HD",
+	"link" : "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=66a7c483fbc67b66c34c7ef8cfe921c5&txTime=66f2805c"},
+	
+	{"server" : "SD",
+	"link" : "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=01fde77485271dbb8863d91d4a5c7ce7&txTime=66f2805c"}
+    ],
+    
     "linktype" : "HD,SD",
     "live" :1
 },
 
-{
+    {
     "matchName" : "Chelsea Vs Barrow",
     "data" : "Wed, September 25, 1:15 AM",
     "homeImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8455_small.png&w=48&q=75",
     "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
     "leauge" :"EFL Cup Round 3",
     "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
-    "link" : "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=66a7c483fbc67b66c34c7ef8cfe921c5&txTime=66f2805c,https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=01fde77485271dbb8863d91d4a5c7ce7&txTime=66f2805c",
+    "link" : [
+        
+	{"server" : "HD",
+	"link" : "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=66a7c483fbc67b66c34c7ef8cfe921c5&txTime=66f2805c"},
+	
+	{"server" : "SD",
+	"link" : "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=01fde77485271dbb8863d91d4a5c7ce7&txTime=66f2805c"}
+    ],
+    
+    "linktype" : "HD,SD",
+    "live" :1
+},
+
+     {
+    "matchName" : "Chelsea Vs Barrow",
+    "data" : "Wed, September 25, 1:15 AM",
+    "homeImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8455_small.png&w=48&q=75",
+    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
+    "leauge" :"EFL Cup Round 3",
+    "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
+    "link" : [
+        
+	{"server" : "HD",
+	"link" : "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=66a7c483fbc67b66c34c7ef8cfe921c5&txTime=66f2805c"},
+	
+	{"server" : "SD",
+	"link" : "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=01fde77485271dbb8863d91d4a5c7ce7&txTime=66f2805c"}
+    ],
+    
     "linktype" : "HD,SD",
     "live" :0
 }
+
+
 
 ]
