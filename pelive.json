@@ -9,16 +9,16 @@
     "link" : [
         
 	{"server" : "HD",
-	"link" : "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=66a7c483fbc67b66c34c7ef8cfe921c5&txTime=66f2805c"},
+	"link" : "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1727179284-0-0-03b27dd3c4e876cd7e055dcfa9fb2cfe"},
 	
 	{"server" : "SD",
-	"link" : "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=01fde77485271dbb8863d91d4a5c7ce7&txTime=66f2805c"},
+	"link" : "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1727179284-0-0-97a3edf3af0587738142ba1d32b74892"},
 
 	    {"server" : "FullHD",
-	"link" : "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=01fde77485271dbb8863d91d4a5c7ce7&txTime=66f2805c"},
+	"link" : "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1727179344-0-0-af34a8a582be2b49a4efa596b9854cc2"},
 
 	    {"server" : "English",
-	"link" : "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=01fde77485271dbb8863d91d4a5c7ce7&txTime=66f2805c"}
+	"link" : "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1727179344-0-0-63dd43a89cf77935a1fdd783a593fbd0"}
     ],
     
     "linktype" : "HD,SD",
