@@ -6,12 +6,12 @@
   "movieLinks" :[
     {
       "serverName" : "HD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8",
+      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
     },
 
   {
       "serverName" : "SD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8",
+      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
     }
   ]
 },
@@ -22,12 +22,12 @@
   "movieLinks" :[
     {
       "serverName" : "HD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8",
+      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
     },
 
   {
       "serverName" : "SD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8",
+      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
     }
   ]
 },
@@ -40,12 +40,12 @@
   "movieLinks" :[
     {
       "serverName" : "HD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8",
+      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
     },
 
   {
       "serverName" : "SD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8",
+      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
     }
   ]
 }
