@@ -1,6 +1,8 @@
 [
   
-  {"movieName" : "Long Gone Heroes",
+  {
+  
+  "movieName" : "Long Gone Heroes",
   "moviePoster" : "http://www.zegomovie.com/Uploads/vod/2024-09-24/66f263a79936c.jpg",
   "movieDesc" : "Hello",
   "movieLinks" :[
@@ -14,39 +16,7 @@
       "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
     }
   ]
-},
-
-{"movieName" : "Long Gone Heroes",
-  "moviePoster" : "http://www.zegomovie.com/Uploads/vod/2024-09-24/66f263a79936c.jpg",
-  "movieDesc" : "B",
-  "movieLinks" :[
-    {
-      "serverName" : "HD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
-    },
-
-  {
-      "serverName" : "SD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
-    }
-  ]
-},
-
-
-{
-  "movieName" : "Long Gone Heroes",
-  "moviePoster" : "http://www.zegomovie.com/Uploads/vod/2024-09-24/66f263a79936c.jpg",
-  "movieDesc" : "C",
-  "movieLinks" :[
-    {
-      "serverName" : "HD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
-    },
-
-  {
-      "serverName" : "SD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
-    }
-  ]
 }
+
+
 ]
