@@ -9,16 +9,16 @@
     "link" : [
         
 	{"server" : "HD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1727179284-0-0-03b27dd3c4e876cd7e055dcfa9fb2cfe"},
+	"link" : "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1727358565-0-0-451ff09f67a7d8ac67607ba816769c06"},
 	
 	{"server" : "SD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1727179284-0-0-97a3edf3af0587738142ba1d32b74892"},
+	"link" : "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1727358565-0-0-451ff09f67a7d8ac67607ba816769c06"},
 
 	    {"server" : "FullHD",
-	"link" : "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727196177-0-0-b30562bb71d1bd06e318398ad5ffe2a3"},
+	"link" : "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1727358565-0-0-451ff09f67a7d8ac67607ba816769c06"},
 
 	    {"server" : "English",
-	"link" : "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1727179344-0-0-63dd43a89cf77935a1fdd783a593fbd0"}
+	"link" : "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1727358565-0-0-451ff09f67a7d8ac67607ba816769c06"}
     ],
     
     "linktype" : "HD,SD",
