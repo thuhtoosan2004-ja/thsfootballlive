@@ -13,7 +13,7 @@
 
   {
       "serverName" : "SD",
-      "movieLink" : "http://www.zegomovie.com/Videos/WillieandMe24/index.m3u8"
+      "movieLink" : "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1727889985-0-0-eced29dafd3422c71f3c006d0d06889d"
     }
   ]
 },
@@ -44,12 +44,12 @@
   "movieLinks" :[
     {
       "serverName" : "HD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
+      "movieLink" : "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1727889985-0-0-eced29dafd3422c71f3c006d0d06889d"
     },
 
   {
       "serverName" : "SD",
-      "movieLink" : "http://www.zegomovie.com/Videos/LongGoneHeroes24/index.m3u8"
+      "movieLink" : "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1727889985-0-0-eced29dafd3422c71f3c006d0d06889d"
     }
   ]
 },
