@@ -11,16 +11,16 @@
     "link" : [
         
 	{"server" : "HD",
-	"link" : "https://mnko.upfootvid.com/UpFiles/2024/9/24/51/287917/0.m3u8"},
+	"link" : "https://hl.thapcam.link/hls/2light/bda/cakeo/hl/liverhl0031024.mp4/playlist.m3u8"},
 	
 	{"server" : "SD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1727179284-0-0-97a3edf3af0587738142ba1d32b74892"},
+	"link" : "https://hl.thapcam.link/hls/2light/bda/cakeo/hl/liverhl0031024.mp4/playlist.m3u8"},
 
 	    {"server" : "FullHD",
-	"link" : "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727196177-0-0-b30562bb71d1bd06e318398ad5ffe2a3"},
+	"link" : "https://hl.thapcam.link/hls/2light/bda/cakeo/hl/liverhl0031024.mp4/playlist.m3u8"},
 
 	    {"server" : "English",
-	"link" : "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1727179344-0-0-63dd43a89cf77935a1fdd783a593fbd0"}
+	"link" : "https://hl.thapcam.link/hls/2light/bda/cakeo/hl/liverhl0031024.mp4/playlist.m3u8"}
     ]
 },
 
