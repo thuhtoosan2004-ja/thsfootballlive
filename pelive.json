@@ -9,7 +9,7 @@
     "serverlinks" : [
         
 	{"server" : "HD",
-	"link" : "https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=c6a268036eaed349f73572c088a87ffd&txTime=670166d1"},
+	"link" : "https://live3.procdnlive.com/livecdn/live3.procdnlive.com_channel2-1728141839730.ts?auth_key=3000001728141829-0-0-d3d0bff04cd205edf4c01f2b1d6d1904"},
 	
 	{"server" : "SD",
 	"link" : "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1727889985-0-0-eced29dafd3422c71f3c006d0d06889d"},
