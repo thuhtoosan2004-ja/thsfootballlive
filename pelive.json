@@ -9,7 +9,7 @@
     "serverlinks" : [
         
 	{"server" : "HD",
-	"link" : "https://live3.procdnlive.com/livecdn/live3.procdnlive.com_channel2-1728141839730.ts?auth_key=3000001728141829-0-0-d3d0bff04cd205edf4c01f2b1d6d1904"},
+	"link" : "https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001728142262-0-0-3558ac4bf857d4a3cf3c94ea4d71ee2e"},
 	
 	{"server" : "SD",
 	"link" : "https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1728145466-0-0-6ed0d0db0c3034833c919f2244c2d17e"},
